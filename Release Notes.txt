@@ -1,9 +1,11 @@
 Tantares Simple Adjustable Fairings / TantaresSAF
-Version 1.0
+Version 3.0
 
 - Progress Fairing
 - Zenit Fairing
 - Polyus / Mir Module / Zarya Fairing
+- Tsyklon Fairing
+- Proton DM-A/B Fairing
 
 Place the TantaresSAF folder into KSP/GameData to use. Have fun!
-TantaresSP is distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+All Rights Reserved

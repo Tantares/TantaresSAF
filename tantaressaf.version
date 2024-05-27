@@ -8,7 +8,7 @@
 		"ALLOW_PRE_RELEASE": false
 	},
 	"VERSION": {
-		"MAJOR": 1,
+		"MAJOR": 3,
 		"MINOR": 0,
 		"PATCH": 0
 	},
